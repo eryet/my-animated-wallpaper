@@ -1,6 +1,8 @@
 # My-Animated-Wallpaper
 
-## kanon-wallpaper
+This README contains most of my self-made animated wallpapers. All of them are 1920w x 1080h unless specified otherwise.
+
+## kanon-wallpaper (Web)
 
 - Website
     <p align="center">
@@ -26,7 +28,7 @@
         </a>
     </p>
 
-## suisei-wallpaper
+## suisei-wallpaper (Web)
 
 - Website
     <p align="center">
@@ -52,7 +54,7 @@
         </a>
     </p>
 
-## sachi-wallpaper
+## sachi-wallpaper (Web)
 
 - Website
     <p align="center">
@@ -78,12 +80,10 @@
         </a>
     </p>
 
-## mono-wallpaper
+## mono-wallpaper (Scene)
 
-- Website
-    <p align="center">
-        <a href=""></a>
-    </p>
+- Video
+    https://github.com/eryet/my-animated-wallpaper/assets/48248414/5165057d-b602-45f7-9c4e-c0004e38229f
 
 - Steam Stats
     <p align="center">
