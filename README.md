@@ -83,7 +83,8 @@ This README contains most of my self-made animated wallpapers. All of them are 1
 ## mono-wallpaper (Scene)
 
 - Video
-    https://github.com/eryet/my-animated-wallpaper/assets/48248414/5165057d-b602-45f7-9c4e-c0004e38229f
+
+  https://github.com/eryet/my-animated-wallpaper/assets/48248414/5165057d-b602-45f7-9c4e-c0004e38229f
 
 - Steam Stats
     <p align="center">
