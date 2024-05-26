@@ -1,11 +1,12 @@
 # My-Animated-Wallpaper
 
 This README contains most of my self-made animated wallpapers. All of them are 1920w x 1080h unless specified otherwise.
+All wallpaper are intended use for fullscreen, press F11 in when in webpage to enjoy
 
 ## kanon-wallpaper (Web)
 
 - Website
-    <p align="center">
+    <p align="left">
         <a href="https://kanon-wallpaper.vercel.app">https://kanon-wallpaper.vercel.app</a>
     </p>
 
@@ -31,7 +32,7 @@ This README contains most of my self-made animated wallpapers. All of them are 1
 ## suisei-wallpaper (Web)
 
 - Website
-    <p align="center">
+    <p align="left">
         <a href=""></a>
     </p>
 
@@ -54,11 +55,18 @@ This README contains most of my self-made animated wallpapers. All of them are 1
         </a>
     </p>
 
+## shigure_ui-wallpaper (Web)
+
+- Website
+    <p align="left">
+        <a href="https://shigure-ui-wallpaper.vercel.app/">https://shigure-ui-wallpaper.vercel.app/</a>
+    </p>
+
 ## sachi-wallpaper (Web)
 
 - Website
-    <p align="center">
-        <a href=""></a>
+    <p align="left">
+        <a href="https://sachi-wallpaper.vercel.app/">https://sachi-wallpaper.vercel.app/</a>
     </p>
 
 - Steam Stats
