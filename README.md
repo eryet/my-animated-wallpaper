@@ -1,14 +1,14 @@
 # My-Animated-Wallpaper
-This README contains most of my self-made animated wallpapers. 
+This README contains most of my self-made animated wallpapers.
 
+## Table of Contents
 * [:information_source: Info](#Info)
 * [:framed_picture: Wallpaper](#Wallpaper)
-  - [:sparkling_heart: kanon-wallpaper](#electric_plug-installation)
-  - [:sparkling_heart: suisei-wallpaper](#suisei-wallpaper)
-  - [:sparkling_heart: shigure_ui-wallpaper](#shigure_ui-wallpaper)
-  - [:sparkling_heart: sachi-wallpaper](#sachi-wallpaper)
-  - [:sparkling_heart: mono-wallpaper](#mono-wallpaper)
-
+  - [:sparkling_heart: kanon-wallpaper](#kanon-wallpaper-web)
+  - [:sparkling_heart: suisei-wallpaper](#suisei-wallpaper-web)
+  - [:sparkling_heart: shigure_ui-wallpaper](#shigure_ui-wallpaper-web)
+  - [:sparkling_heart: sachi-wallpaper](#sachi-wallpaper-web)
+  - [:sparkling_heart: mono-wallpaper](#mono-wallpaper-scene)
 
 ## Info
 
