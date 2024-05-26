@@ -1,9 +1,31 @@
 # My-Animated-Wallpaper
+This README contains most of my self-made animated wallpapers. 
 
-This README contains most of my self-made animated wallpapers. All of them are 1920w x 1080h unless specified otherwise.
-All wallpaper are intended use for fullscreen, press F11 in when in webpage to enjoy
+* [:information_source: Info](#Info)
+* [:framed_picture: Wallpaper](#Wallpaper)
+  - [:sparkling_heart: kanon-wallpaper](#electric_plug-installation)
+  - [:sparkling_heart: suisei-wallpaper](#suisei-wallpaper)
+  - [:sparkling_heart: shigure_ui-wallpaper](#shigure_ui-wallpaper)
+  - [:sparkling_heart: sachi-wallpaper](#sachi-wallpaper)
+  - [:sparkling_heart: mono-wallpaper](#mono-wallpaper)
 
-## kanon-wallpaper (Web)
+
+## Info
+
+- I make wallpaper to practice/learning some new stuff (css/js/animation) and for my personal usage
+- All of them are 1920w x 1080h unless specified otherwise.
+- All wallpaper are intended use for fullscreen, press F11(browser fullscreen shorcut) to enjoy
+- Not All published on Steam Workshop/my github
+- I have two different folder code for each platform(github repo and wallpaper engine), it is hard to sync it with git due to wallpaper engine restriction on creating a wallpaper project so i do it manually, hope i/community come up a good solution for it (maybe a bat script to sync it using absolute path ?)
+- Wallpaper that i published on Steam Workshop are using local file so there should be no worries, unless i forget it
+- I prefer use cdn(gsap, three.js, or any other tools that provide cdn) on github repo for hosting in vercel for faster loading, but it is definitely better to have local file for wallpaper usage
+- I think using framework for wallpaper is overhead, handle in pure js is nightmare but is all for best performance
+- Code mostly are messy, i focus on visual than trying make my code readable, unless it is related to performance
+- Yes i love anime
+
+## Wallpaper
+
+### kanon-wallpaper (Web)
 
 - Website
     <p align="left">
@@ -29,7 +51,7 @@ All wallpaper are intended use for fullscreen, press F11 in when in webpage to e
         </a>
     </p>
 
-## suisei-wallpaper (Web)
+### suisei-wallpaper (Web)
 
 - Website
     <p align="left">
@@ -55,14 +77,14 @@ All wallpaper are intended use for fullscreen, press F11 in when in webpage to e
         </a>
     </p>
 
-## shigure_ui-wallpaper (Web)
+### shigure_ui-wallpaper (Web)
 
 - Website
     <p align="left">
         <a href="https://shigure-ui-wallpaper.vercel.app/">https://shigure-ui-wallpaper.vercel.app/</a>
     </p>
 
-## sachi-wallpaper (Web)
+### sachi-wallpaper (Web)
 
 - Website
     <p align="left">
@@ -88,7 +110,7 @@ All wallpaper are intended use for fullscreen, press F11 in when in webpage to e
         </a>
     </p>
 
-## mono-wallpaper (Scene)
+### mono-wallpaper (Scene)
 
 - Video
 
