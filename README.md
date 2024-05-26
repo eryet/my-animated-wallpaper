@@ -14,11 +14,11 @@ This README contains most of my self-made animated wallpapers.
 
 - I make wallpaper to practice/learning some new stuff (css/js/animation) and for my personal usage
 - All of them are 1920w x 1080h unless specified otherwise.
-- All wallpaper are intended use for fullscreen, press F11(browser fullscreen shorcut) to enjoy
+- All wallpaper are intended use for fullscreen, press F11 (browser fullscreen shorcut) to enjoy
 - Not All published on Steam Workshop/my github
 - I have two different folder code for each platform(github repo and wallpaper engine), it is hard to sync it with git due to wallpaper engine restriction on creating a wallpaper project so i do it manually, hope i/community come up a good solution for it (maybe a bat script to sync it using absolute path ?)
 - Wallpaper that i published on Steam Workshop are using local file so there should be no worries, unless i forget it
-- I prefer use cdn(gsap, three.js, or any other tools that provide cdn) on github repo for hosting in vercel for faster loading, but it is definitely better to have local file for wallpaper usage
+- I prefer use cdn (gsap, three.js, or any other tools that provide cdn) on github repo for hosting in vercel for faster loading, but it is definitely better to have local file for wallpaper usage
 - I think using framework for wallpaper is overhead, handle in pure js is nightmare but is all for best performance
 - Code mostly are messy, i focus on visual than trying make my code readable, unless it is related to performance
 - Yes i love anime
@@ -32,8 +32,11 @@ This README contains most of my self-made animated wallpapers.
         <a href="https://kanon-wallpaper.vercel.app">https://kanon-wallpaper.vercel.app</a>
     </p>
 
+- Repository
+  - [https://github.com/eryet/kanon-wallpaper](https://github.com/eryet/kanon-wallpaper)
+
 - Steam Stats 
-    <p align="center">
+    <p align="left">
         <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3097629684">
             <img src="https://img.shields.io/steam/size/3097629684?style=for-the-badge&logo=Steam"  alt="steam file size">
         </a>
@@ -58,8 +61,11 @@ This README contains most of my self-made animated wallpapers.
         <a href=""></a>
     </p>
 
+- Repository
+  - [https://github.com/eryet/suisei-wallpaper](https://github.com/eryet/suisei-wallpaper)
+
 - Steam Stats
-    <p align="center">
+    <p align="left">
         <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3011823423">
             <img src="https://img.shields.io/steam/size/3011823423?style=for-the-badge&logo=Steam"  alt="steam file size">
         </a>
@@ -84,6 +90,9 @@ This README contains most of my self-made animated wallpapers.
         <a href="https://shigure-ui-wallpaper.vercel.app/">https://shigure-ui-wallpaper.vercel.app/</a>
     </p>
 
+- Repository
+  - [https://github.com/eryet/shigure_ui-wallpaper](https://github.com/eryet/shigure_ui-wallpaper)
+
 ### sachi-wallpaper (Web)
 
 - Website
@@ -91,8 +100,11 @@ This README contains most of my self-made animated wallpapers.
         <a href="https://sachi-wallpaper.vercel.app/">https://sachi-wallpaper.vercel.app/</a>
     </p>
 
+- Repository
+  - [https://github.com/eryet/sachi-wallpaper](https://github.com/eryet/sachi-wallpaper)
+
 - Steam Stats
-    <p align="center">
+    <p align="left">
         <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2862882636">
             <img src="https://img.shields.io/steam/size/2862882636?style=for-the-badge&logo=Steam"  alt="steam file size">
         </a>
@@ -117,7 +129,7 @@ This README contains most of my self-made animated wallpapers.
   https://github.com/eryet/my-animated-wallpaper/assets/48248414/5165057d-b602-45f7-9c4e-c0004e38229f
 
 - Steam Stats
-    <p align="center">
+    <p align="left">
         <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1700479090">
             <img src="https://img.shields.io/steam/size/1700479090?style=for-the-badge&logo=Steam"  alt="steam file size">
         </a>
