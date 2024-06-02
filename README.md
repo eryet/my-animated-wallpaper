@@ -6,6 +6,9 @@
 列表由最新至最舊
 
 ## 目錄
+
+很多人不知道,不過右上角其實是有TOC的
+
 * [:information_source: 信息](#信息)
 * [:framed_picture: 桌布](#桌布)
   - [:sparkling_heart: Kanon 桌布](#kanon-wallpaper-網頁版)
